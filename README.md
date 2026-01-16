@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Teixido_Quantum_Logo.png" width="100%" alt="Teixido-Quantum Logo">
+  <br>
+  <i><b>"Minimizing Decoherence via Spectral Graph Theory"</b></i>
+</p>
+
 # Teixido-Quantum Interconnects: Spectral Routing for NISQ Processors
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
