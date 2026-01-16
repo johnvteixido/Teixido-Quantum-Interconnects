@@ -43,7 +43,7 @@ Simulations performed using Qiskit Aer on Quantum Volume (Random Unitary) tasks.
 *   **Open Source:** This reference implementation generates random Degree-4 graphs to demonstrate the topological advantage. Licensed under **AGPL-3.0**.
 *   **Enterprise Edition:** Includes pre-computed **"Golden Graph"** adjacency matrices ($N=50, 127, 433$) optimized for specific spectral gaps and planar embedding constraints.
 
-**Contact:** [jvteixido@liberty.edu](mailto:jvteixido@liberty.edu)
+**Contact:** [johnvteixido@gmail](mailto:johnvteixido@gmail.com)
 
 ---
 
